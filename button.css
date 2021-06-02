@@ -1,0 +1,15 @@
+button {
+    height: 50px;
+    width: 50px;
+    color: blue;
+    stroke: blue;
+    outline: none;
+    margin: 0px;
+    border-radius: 2px;
+    
+  }
+  
+  button.current {
+    box-shadow: 0 0 0 2px white,
+                0 0 0 4px black;
+  }
